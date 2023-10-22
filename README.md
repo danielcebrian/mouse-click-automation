@@ -48,6 +48,9 @@ Before using this script, ensure you have the following prerequisites:
     ./mouseclick.sh
     ```
 
+OPTIONAL: You can set up a custom shortcut key in your Linux desktop environment to execute (start or stop), for instance, the script with Ctrl+Shift+Alt+M. The exact steps to do this may vary depending on your desktop environment (e.g., GNOME, KDE, etc.).
+
+
 ## Configuration
 
 You can configure the script by editing the following variables in the script:
